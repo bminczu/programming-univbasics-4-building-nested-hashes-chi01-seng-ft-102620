@@ -1,5 +1,5 @@
 def base_hash
-bash_hash{
+bash_hash={
   :railroads= >{}
 }
   # Remember implicit return! We're returning this new Hash _without_ the
